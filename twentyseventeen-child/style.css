@@ -1,0 +1,59 @@
+/*
+ Theme Name:     Twenty Seventeen Child Theme
+ Author URI:     http://www.ezau.com/
+ Template:       twentyseventeen
+ Version:        1.0.0
+*/
+ 
+/* Add Custom CSS after this line */
+
+
+/* Forside */
+
+.entry-title {
+	background-color: white;
+	
+}
+
+.page-header {
+	padding-bottom: 4em;
+	
+}
+
+.wrap {
+	max-width: 90%;
+    padding-left: 0%;
+    padding-right: 0%;
+	
+}
+
+.wp-block-media-text last-child {
+    margin-bottom: 0;
+	
+}
+
+.wp-block-media-text {
+	align-items: start;
+	
+}
+
+.wp-block-button__link {
+	border-radius: 4px;
+	
+}
+
+/* Destination side */
+
+.entry-header {
+  margin-left: 0%;
+	
+}
+
+.entry-content {
+	float: none; 
+}
+
+
+
+
+
